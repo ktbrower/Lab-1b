@@ -1,0 +1,25 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int x = 14;
+		int y = 18;
+		if (x > y) 
+{
+  Console.WriteLine("x is greater than y");
+}
+		else Console.WriteLine("y is greater than x");
+		
+	int time = 14;
+if (time < 18) 
+{
+  Console.WriteLine("Good day.");
+} 
+else 
+{
+  Console.WriteLine("Good evening.");
+}
+// Outputs "Good evening."
+	}}
